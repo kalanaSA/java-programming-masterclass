@@ -1,0 +1,20 @@
+
+J
+java:S3740?"/Provide the parametrized type for this generic.(¶è¹Çÿÿÿÿÿ
+i
+java:S1192J"NDefine a constant instead of duplicating this literal "Now visiting " 3 times.(œÿŒžÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(±„òá
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Þø¶Îøÿÿÿÿ
+m
+java:S3776?"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¶è¹Çÿÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(’É·êýÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(œÿŒžÿÿÿÿÿ
+<	java:S131R""Add a default case to this switch.(ë´åÝþÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(™ê°Ž
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(œÿŒžÿÿÿÿÿ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(µÑìé
+M	java:S106t"9Replace this use of System.out or System.err by a logger.(›•¢0
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(’¿„þ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(•«„¸
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(ƒÌô

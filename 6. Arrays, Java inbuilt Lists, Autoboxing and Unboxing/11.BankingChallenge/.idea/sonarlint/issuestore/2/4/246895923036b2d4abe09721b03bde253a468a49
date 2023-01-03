@@ -1,0 +1,21 @@
+
+m
+java:S1192/"WDefine a constant instead of duplicating this literal "' branch doesn't exist" 4 times.(ðû·«
+n
+java:S1192"XDefine a constant instead of duplicating this literal "Something Went Wrong! '" 6 times.(ð„†³
+Œ
+java:S1319ˆ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Øÿº¼ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ð„†³
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ö­Ž«úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™‚ü¢ûÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ï¨ØÂÿÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(³Üð‚ûÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(àÑðÂ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(È çÖÿÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ðû·«
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(“ùü“úÿÿÿÿ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(ðû·«
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(ðû·«
+U	java:S106{"9Replace this use of System.out or System.err by a logger.(ðû·«8œòð½ª0

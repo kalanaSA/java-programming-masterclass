@@ -1,0 +1,11 @@
+
+„
+java:S1319("iThe type of "playList" should be an interface such as "List" rather than the implementation "LinkedList".(à·Ç©úÿÿÿÿ
+„
+java:S13196"iThe type of "playList" should be an interface such as "List" rather than the implementation "LinkedList".(Íª”Éÿÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ÓËâ¾ıÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(îª•êüÿÿÿÿ
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+E
+java:S1068	"*Remove this unused "artist" private field.(†ğÖŠıÿÿÿÿ

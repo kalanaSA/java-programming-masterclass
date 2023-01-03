@@ -1,0 +1,13 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×®ı
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©ÑøÆøÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(†İ·F
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆõ¹äúÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Ìá¦€ÿÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.( ä·
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(øÆé´
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(À–ÿä
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(òø¢şÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ÒŸ¯ƒıÿÿÿÿ
+T
+java:S1854;"9Remove this useless assignment to local variable "array".(”şÁÿÿÿÿÿÿ

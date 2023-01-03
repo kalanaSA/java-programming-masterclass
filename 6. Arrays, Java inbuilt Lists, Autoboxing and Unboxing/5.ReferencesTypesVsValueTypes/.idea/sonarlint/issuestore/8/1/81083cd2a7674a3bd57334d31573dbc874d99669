@@ -1,0 +1,11 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ùîèæşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©ÄŒøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(™ßÆÄ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ™ê³úÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(í£ØÀøÿÿÿÿ
+O
+java:S1854H"9Remove this useless assignment to local variable "basic".(¸¸š
+Q	java:S125B"<This block of commented-out lines of code should be removed.(Šÿ¶Ô
+@
+java:S1068"+Remove this unused "scanner" private field.(·¸ã

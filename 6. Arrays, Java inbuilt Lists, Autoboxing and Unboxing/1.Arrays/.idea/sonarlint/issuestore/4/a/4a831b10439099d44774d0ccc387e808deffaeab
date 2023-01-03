@@ -1,0 +1,21 @@
+
+W
+java:S18540"ARemove this useless assignment to local variable "myDoubleArray".(Õğ˜»
+Z
+java:S1854"?Remove this useless assignment to local variable "myIntArray1".(Â›ÄÁıÿÿÿÿ
+T
+java:S1854">Remove this useless assignment to local variable "myVariable".(Ş²äÏ
+E
+java:S1481"/Remove this unused "myVariable" local variable.(Ş²äÏ
+F
+java:S1481"0Remove this unused "myIntArray1" local variable.(«‘Ğ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(»‡Ìşÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ñªşİÿÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(ñ‹ç§
+V	java:S125-"<This block of commented-out lines of code should be removed.(¹¥ÊÓúÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ñ‹ç§
+N	java:S106;"9Replace this use of System.out or System.err by a logger.( ÀàÔ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(„İ‰Ğşÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ï¨‘€ùÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(ØˆÑ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(ğÊÏ˜

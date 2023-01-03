@@ -1,0 +1,9 @@
+
+‡
+java:S1319B"lThe type of "intArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(Õô¹±ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÃîåÙúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼ôæã
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ñ÷ó¹úÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ñ÷ó¹úÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ñ÷ó¹úÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ÔÌôß
