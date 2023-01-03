@@ -1,0 +1,25 @@
+
+U
+java:S1854	":Remove this useless assignment to local variable "score2".(µ´áûÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "score1".(Êüß
+O
+java:S1854"9Remove this useless assignment to local variable "score".(“ÚÂ
+@
+java:S1481"*Remove this unused "score" local variable.(“ÚÂ
+A
+java:S1481"+Remove this unused "score1" local variable.(Êüß
+F
+java:S1481	"+Remove this unused "score2" local variable.(µ´áûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰æ–³üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Êù‰‚
+V	java:S125"<This block of commented-out lines of code should be removed.(ÿóÁüÿÿÿÿ
+Q	java:S125""<This block of commented-out lines of code should be removed.(’›Î…
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(µŠÜÚùÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ò—½øÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(»®¯şÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(ë®Æüÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(Êù‰‚
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(˜Ãµ™
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(ªÔ¾²
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(ãç€Ğûÿÿÿÿ8Şª—0
