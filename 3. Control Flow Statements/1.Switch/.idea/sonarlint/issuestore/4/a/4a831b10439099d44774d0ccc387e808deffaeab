@@ -1,0 +1,20 @@
+
+^
+java:S6208""CMerge the previous cases into this one using comma-separated label.(ÌÊëÎüÿÿÿÿ
+Y
+java:S6208L"CMerge the previous cases into this one using comma-separated label.(Â³íÅ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ä¼Ğüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ò›¤óüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°‘Èàÿÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ğ–Ÿşıÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(µñö
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(¹öÁ¥
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Ü©ß£
+M	java:S1061"9Replace this use of System.out or System.err by a logger.(†â›A
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(±è«ğ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(åÕÌÿÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(É˜õŞøÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(œ‚Ü–øÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(¦‚Ìç
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(¹ÏÜ–
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ûÅışÿÿÿÿ

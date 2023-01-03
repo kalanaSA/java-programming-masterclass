@@ -1,0 +1,10 @@
+
+k
+java:S1192"PDefine a constant instead of duplicating this literal "count value is " 3 times.(ÉÖÂ÷şÿÿÿÿ
+n	java:S135,"YReduce the total number of break and continue statements in this loop to use at most one.(…¬¿€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÖÂ÷şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÖÂ÷şÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÉÖÂ÷şÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(…¬¿€
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(«¥ƒò
+N	java:S106="9Replace this use of System.out or System.err by a logger.(É‹Ÿ«
