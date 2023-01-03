@@ -1,0 +1,60 @@
+
+Z
+java:S1854J"DRemove this useless assignment to local variable "myNewShortValue2".(çÏé¤
+Y
+java:S1854I"DRemove this useless assignment to local variable "myNewShortValue1".(¶Õ‚x
+]
+java:S1854G"BRemove this useless assignment to local variable "myNewByteValue".(ßîÿÊúÿÿÿÿ
+^
+java:S1854F"CRemove this useless assignment to local variable "myNewByteValue2".(Š²»Öûÿÿÿÿ
+^
+java:S1854D"CRemove this useless assignment to local variable "myNewByteValue1".(¥ÓÁ¶ùÿÿÿÿ
+d
+java:S1854>"IRemove this useless assignment to local variable "bigShortLiteralValue2".(÷¢ôùÿÿÿÿ
+W
+java:S1854="<Remove this useless assignment to local variable "intValue".(˜ ¯úüÿÿÿÿ
+Y
+java:S18548">Remove this useless assignment to local variable "longValue4".(±àÜæıÿÿÿÿ
+Y
+java:S18546">Remove this useless assignment to local variable "longValue2".(½£Åæÿÿÿÿÿ
+Y
+java:S18544">Remove this useless assignment to local variable "longValue1".(ø¼şşÿÿÿÿ
+[
+java:S18540"@Remove this useless assignment to local variable "maxLongValue".(Şëş»üÿÿÿÿ
+[
+java:S1854/"@Remove this useless assignment to local variable "minLongValue".(©ÕÑûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„Ø¯Äıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰œù¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯›´âıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿš­ïşÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ş‘æıÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(šùœ­
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ûßæÿÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ÃĞ½à
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Â šÿ
+L
+java:S1481/"1Remove this unused "minLongValue" local variable.(©ÕÑûÿÿÿÿ
+L
+java:S14810"1Remove this unused "maxLongValue" local variable.(Şëş»üÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ü…´­ÿÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ò¬Ëˆúÿÿÿÿ
+J
+java:S14814"/Remove this unused "longValue1" local variable.(ø¼şşÿÿÿÿ
+J
+java:S14816"/Remove this unused "longValue2" local variable.(½£Åæÿÿÿÿÿ
+J
+java:S14818"/Remove this unused "longValue4" local variable.(±àÜæıÿÿÿÿ
+H
+java:S1481="-Remove this unused "intValue" local variable.(˜ ¯úüÿÿÿÿ
+U
+java:S1481>":Remove this unused "bigShortLiteralValue2" local variable.(÷¢ôùÿÿÿÿ
+O
+java:S1481D"4Remove this unused "myNewByteValue1" local variable.(¥ÓÁ¶ùÿÿÿÿ
+O
+java:S1481F"4Remove this unused "myNewByteValue2" local variable.(Š²»Öûÿÿÿÿ
+N
+java:S1481G"3Remove this unused "myNewByteValue" local variable.(ßîÿÊúÿÿÿÿ
+J
+java:S1481I"5Remove this unused "myNewShortValue1" local variable.(¶Õ‚x
+K
+java:S1481J"5Remove this unused "myNewShortValue2" local variable.(çÏé¤

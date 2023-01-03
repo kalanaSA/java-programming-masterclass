@@ -1,0 +1,70 @@
+
+D
+java:S1121n".Extract the assignment out of this expression.(Ñø…ó
+y
+java:S4165:"dRemove this useless assignment; "result" already holds the assigned value along all execution paths.(‚¡š
+R
+java:S2589C"7Remove this expression which always evaluates to "true"(ş«„¸ÿÿÿÿÿ
+R
+java:S2589T"7Remove this expression which always evaluates to "true"(½É›çıÿÿÿÿ
+M
+java:S2589n"7Remove this expression which always evaluates to "true"(Ñø…ó
+R
+java:S2589r"7Remove this expression which always evaluates to "true"(©ÿ³ùÿÿÿÿ
+S
+java:S2589c"8Remove this expression which always evaluates to "false"(æ†ÿÄûÿÿÿÿ
+_
+java:S2583v"DChange this condition so that it does not always evaluate to "false"(ÖÇŞèøÿÿÿÿ
+Y
+java:S2583"CChange this condition so that it does not always evaluate to "true"(¢Äë„
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘
+K
+java:S1854/"5Remove this useless assignment to local variable "a".(ôÜÓ®
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çƒ¤Ÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ß™ØŞ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Û¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²şÚİúÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¬Î—æüÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ƒôº‘ûÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(àäå»
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ïÄİÿÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(¶®å…
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ôáˆ¤ùÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(¨‹ª¼ıÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(Î•õ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(¡¶Ş–
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ë¶â´ıÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(¡¶Ş–
+B
+java:S1125C"'Remove the unnecessary boolean literal.(ş«„¸ÿÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ûåóˆ
+Q	java:S125G"<This block of commented-out lines of code should be removed.(òÈ³
+V	java:S125M"<This block of commented-out lines of code should be removed.(Öúé–şÿÿÿÿ
+B
+java:S1125T"'Remove the unnecessary boolean literal.(½É›çıÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(æáêîùÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ûñ÷ñúÿÿÿÿ
+M	java:S106^"9Replace this use of System.out or System.err by a logger.(˜ú’ 
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(…ƒÏ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(óĞøÿÿÿÿ
+B
+java:S1125c"'Remove the unnecessary boolean literal.(æ†ÿÄûÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(Êï—ûÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(Ù±ô
+V	java:S125i"<This block of commented-out lines of code should be removed.(“­€•ùÿÿÿÿ
+M	java:S106o"9Replace this use of System.out or System.err by a logger.(ˆ€e
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(õ¥Üóıÿÿÿÿ
+V	java:S125r"<This block of commented-out lines of code should be removed.(©ÿ³ùÿÿÿÿ
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(‘ç³
+V	java:S125v"<This block of commented-out lines of code should be removed.(ÖÇŞèøÿÿÿÿ
+>
+java:S1125"(Remove the unnecessary boolean literals.(¢Äë„
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(–áÕ°
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¬Ìÿ¡
+?
+java:S1125‰"(Remove the unnecessary boolean literals.(Ùšæ¾
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(û‰œç
+T	java:S106"9Replace this use of System.out or System.err by a logger.(äèøºùÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'jdk.jfr.Relational'.(‚è­

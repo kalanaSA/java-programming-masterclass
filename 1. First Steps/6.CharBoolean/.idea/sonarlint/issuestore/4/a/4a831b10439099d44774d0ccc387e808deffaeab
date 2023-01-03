@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûÁÈ¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Â”ÝÓþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸‚•ßûÿÿÿÿ
+M
+java:S1481"7Remove this unused "myTrueBooleanValue" local variable.(ØÒûõ
+N
+java:S1481"8Remove this unused "myFalseBooleanValue" local variable.(Ñ‚•Á
+R
+java:S1481"<Remove this unused "isCustomerOverTwentyOne" local variable.(ÜÜïû
