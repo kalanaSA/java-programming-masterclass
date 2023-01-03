@@ -1,0 +1,19 @@
+package com.company;
+
+public class Calculator {
+
+    Floor floor;
+    Carpet carpet;
+
+    public Calculator(Floor floor, Carpet carpet) {
+        this.floor = floor;
+        this.carpet = carpet;
+    }
+
+    public double getTotalCost() {
+        double totalArea = this.floor.getArea();
+        double costPerSquareFeet = this.carpet.getCost();
+        return totalArea * costPerSquareFeet;
+    }
+
+}
